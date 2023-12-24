@@ -38,7 +38,7 @@ To get started, clone the repository, explore the projects, and see where you ca
 
 ## Stay Connected
 
-Join our community (link to a Discord server, forum, or other platforms) to stay updated on new projects and collaborate with others.
+Join our community  [Discord Server](https://discord.gg/SJRvt5zk) to stay updated on new projects and collaborate with others.
 
 ## License
 

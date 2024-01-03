@@ -1,6 +1,6 @@
 # Recommendation Engines
 
-Recommendation engines, also known as recommender systems, are a type of machine learning system that suggests relevant items to users. These systems are widely used in various industries, such as e-commerce, entertainment, and social media. There are several types of recommendation engines, each with its own approach and methodology.
+Recommendation engines, also known as recommender systems, are a type of machine learning system that suggests relevant items to users. These systems are widely used in various industries, such as OTT platforms (movies, TV shows, music), e-commerce (product recommendations), travel (hotel, destination recommendations), health (personalized diet or exercise plans), and even in finance (investment or savings product recommendations). There are several types of recommendation engines, each with its own approach and methodology.
 
 ## Content-Based Filtering
 

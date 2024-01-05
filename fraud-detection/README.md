@@ -1,4 +1,4 @@
-# Detailed Fraud Detection Applications
+# Fraud Detection Applications Across Various Sectors
 
 Fraud detection is crucial in various industries to identify and prevent fraudulent activities. Below are detailed applications of fraud detection in different sectors:
 
